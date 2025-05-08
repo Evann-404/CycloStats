@@ -33,8 +33,6 @@ CycloStats is a lightweight console-based application designed to help cyclists 
 
 ## Getting Started
 
-🚧 _This project is under active development. Expect breaking changes and new features regularly._
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/Evann-404/CycloStats.git
