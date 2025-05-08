@@ -27,6 +27,9 @@ CycloStats is a lightweight console-based application designed to help cyclists 
 - **Schema**: Designed using [dbdiagram.io](https://dbdiagram.io)
 - **Dependencies**: SQLite3 development libraries
 
+## Database Schema
+![DATABASE-SCHEMA](assets/db-schema.png)
+
 
 ## Getting Started
 
