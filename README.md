@@ -1,4 +1,4 @@
-# CycloStats 🚴‍♂️📊
+# CycloStats
 
 CycloStats is a lightweight console-based application designed to help cyclists track their rides and manage bike maintenance efficiently.
 
