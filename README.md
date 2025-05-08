@@ -34,7 +34,7 @@ CycloStats is a lightweight console-based application designed to help cyclists 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Evann-404/cyclostats.git
+   git clone https://github.com/Evann-404/CycloStats.git
    cd cyclostats
    ```
 2. Build (requires SQLite3 development package):
