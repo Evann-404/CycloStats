@@ -5,9 +5,9 @@ CycloStats is a lightweight console-based application designed to help cyclists 
 ## Features
 
 - **Ride Tracking**
-  Log rides with distance, elevation gain, location, and date
-  Associate rides with specific bikes
-  View and analyze historical data
+  - Log rides with distance, elevation gain, location, and date
+  - Associate rides with specific bikes
+  - View and analyze historical data
 
 - **Bike Maintenance**
   - Manage multiple bikes
