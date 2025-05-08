@@ -4,23 +4,23 @@ CycloStats is a lightweight console-based application designed to help cyclists 
 
 ## Features
 
-- 🗺️ **Ride Tracking**
-  - Log rides with distance, elevation gain, location, and date
-  - Associate rides with specific bikes
-  - View and analyze historical data
+- **Ride Tracking**
+  Log rides with distance, elevation gain, location, and date
+  Associate rides with specific bikes
+  View and analyze historical data
 
-- 🛠️ **Bike Maintenance**
+- **Bike Maintenance**
   - Manage multiple bikes
   - Record repair or maintenance events per bike
   - Track cost, description, and type of maintenance
   - Keep a history of service
 
-- 💾 **Local Storage with SQLite**
+- **Local Storage with SQLite**
   - Uses an embedded SQLite database
   - Fast, lightweight and requires no server
   - All data is saved locally (easy to back up or inspect)
 
-## Technical Details
+## Tech stack
 
 - **Language**: C++
 - **Database**: SQLite
@@ -29,7 +29,6 @@ CycloStats is a lightweight console-based application designed to help cyclists 
 
 ## Database Schema
 ![DATABASE-SCHEMA](assets/db-schema.png)
-
 
 ## Getting Started
 
@@ -43,4 +42,3 @@ CycloStats is a lightweight console-based application designed to help cyclists 
    g++ -o cyclostats main.cpp -lsqlite3
    ./cyclostats
    ```
-3. Follow the CLI prompts to log your rides and repairs!
