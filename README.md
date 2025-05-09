@@ -5,20 +5,13 @@ CycloStats is a lightweight console-based application designed to help cyclists 
 ## Features
 
 - **Ride Tracking**
-  - Log rides with distance, elevation gain, location, and date
-  - Associate rides with specific bikes
-  - View and analyze historical data
+  ==> Log rides with distance, elevation gain, location, and date
 
 - **Bike Maintenance**
-  - Manage multiple bikes
-  - Record repair or maintenance events per bike
-  - Track cost, description, and type of maintenance
-  - Keep a history of service
+  ==> Track cost, description, and type of maintenance
 
 - **Local Storage with SQLite**
-  - Uses an embedded SQLite database
-  - Fast, lightweight and requires no server
-  - All data is saved locally (easy to back up or inspect)
+  ==> All data is saved locally (easy to back up or inspect)
 
 ## Tech stack
 
